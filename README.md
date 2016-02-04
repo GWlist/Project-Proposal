@@ -1,6 +1,6 @@
 # Project Idea Proposal
 
-### Name: GWlist
+### Name: [GWlist](https://github.com/GWlist)
 
 ### Members' info
 
