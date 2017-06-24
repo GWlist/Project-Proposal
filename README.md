@@ -31,4 +31,4 @@ The project will be a website where users (only people with and xxxx@xxxx.edu ma
 
 Java, JavaScript, MySQL/MongoDB, AngularJS, RESTful? Spring Framework.
 
-Reason is familiarity. Scalability will be take into consideration with the progress of study.
+Reason is familiarity. Scalability will be taken into consideration with the progress of study.
